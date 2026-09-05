@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SSC CGL Mentor</string>
+    <string name="title_activity_main">SSC CGL Mentor</string>
+    <string name="package_name">in.sscmentor.app</string>
+    <string name="custom_url_scheme">in.sscmentor.app</string>
+</resources>
