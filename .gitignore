@@ -5,3 +5,4 @@ android/app/build/
 android/capacitor-cordova-android-plugins/build/
 android/local.properties
 *.idsig
+android/app/src/main/assets/public/
